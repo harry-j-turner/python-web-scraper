@@ -22,6 +22,6 @@
 
 ## Run Integration Test
 
-- To run the integration test, you need to have a running instance of the application.
+- To run the integration test, you need to have a running instance of the fake website.
 - In one terminal, move into `tests/fake_website` and run `python3.10 -m http.server 8000`.
 - In another terminal, activate the virtual environment and run `python3.10 -m pytest -m "integration"`.
