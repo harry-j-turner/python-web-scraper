@@ -5,7 +5,7 @@
 ### Quickstart: Virtual Environment
 
 - Tested with Python3.10.
-- Move into working directory `crawl_project`.
+- Move into working directory `python-web-scraper`.
 - Install `virtualenv` if not already installed: `python3.10 -m pip install virtualenv`
 - Create a virtual environment: `python3.10 -m venv venv`
 - Activate the virtual environment: `source venv/bin/activate`
